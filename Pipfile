@@ -8,6 +8,11 @@ jupyter = "*"
 ipython = "*"
 pandas = "*"
 numpy = "*"
+scipy = "*"
+requests = "*"
+matplotlib = "*"
+sklearn = "*"
+bokeh = "*"
 
 [dev-packages]
 
